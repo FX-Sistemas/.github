@@ -18,6 +18,10 @@
   🌟 Hubber 4: <a href="https://github.com/LauroRafaelMello"><b>Lauro Rafael Mello</b></a> 🌟
   <br><br>
   🌟 Hubber 5: <a href="https://github.com/Mellovsk"><b>Danilo Mello</b></a> 🌟
+  <br><br>
+  🌟 Hubber 6: <a href="https://github.com/marcelorillo"><b>Marcelo Rillo</b></a> 🌟
+  <br><br>
+  🌟 Hubber 7: <a href="https://github.com/wilsinho8"><b>Wilson</b></a> 🌟
 </h3>
 
 ----

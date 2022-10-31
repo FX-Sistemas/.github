@@ -13,9 +13,11 @@
    <br><br>
   🌟 Hubber 2: <a href="https://github.com/wiliamdindin"><b>William Dindin</b></a> 🌟
   <br><br>
-  🌟 Hubber 3: <a href="https://github.com/alison1120"><b>Alison 1120</b></a> 🌟
+  🌟 Hubber 3: <a href="https://github.com/lucasmence"><b>Lucas</b></a> 🌟
   <br><br>
-  🌟 Hubber 4: <a href="https://github.com/VitormXavier"><b>VitormXavier</b></a> 🌟
+  🌟 Hubber 4: <a href="https://github.com/LauroRafaelMello"><b>Lauro Rafael Mello</b></a> 🌟
+  <br><br>
+  🌟 Hubber 5: <a href="https://github.com/Mellovsk"><b>Danilo Mello</b></a> 🌟
 </h3>
 
 ----
@@ -28,11 +30,3 @@
 <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="32" /></a>
 <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="32" /></a>
 </p>
-
-----
-
-<h3 align="left">🍺 Support 🍺</h3>
-<div align="left">
-  <a href="https://www.buymeacoffee.com/csfelix08d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="csfelix08d"></a><br><br>
-  <a href="https://github.com/sponsors/CSFelix" ><img alt="Coding" widht="200" height="200" src="profile/assets/git-hub-sponsor.png" /></a>
-</div>

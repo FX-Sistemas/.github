@@ -23,7 +23,7 @@
   <br><br>
   🌟 Hubber 7: <a href="https://github.com/wilsinho8"><b>Wilson</b></a> 🌟
   <br><br>
-  🌟 Hubber 7: <a href="https://github.com/valdemirjs"><b>Valdemir</b></a> 🌟
+  🌟 Hubber 8: <a href="https://github.com/valdemirjs"><b>Valdemir</b></a> 🌟
 </h3>
 
 ----

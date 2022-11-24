@@ -24,6 +24,8 @@
   🌟 Hubber 7: <a href="https://github.com/wilsinho8"><b>Wilson</b></a> 🌟
   <br><br>
   🌟 Hubber 8: <a href="https://github.com/valdemirjs"><b>Valdemir</b></a> 🌟
+  <br><br>
+  🌟 Hubber 9: <a href="https://github.com/daniloancilotto"><b>Ancilotto</b></a> 🌟
 </h3>
 
 ----
